@@ -1,0 +1,7 @@
+D:\DotNETBatch2021\Assignments\ADODotNetDMLCommands\ADODotNetDMLcommand\ADODotNetDMLcommand\obj\Debug\ADODotNetDMLcommand.csprojAssemblyReference.cache
+D:\DotNETBatch2021\Assignments\ADODotNetDMLCommands\ADODotNetDMLcommand\ADODotNetDMLcommand\obj\Debug\ADODotNetDMLcommand.csproj.CoreCompileInputs.cache
+D:\DotNETBatch2021\Assignments\ADODotNetDMLCommands\ADODotNetDMLcommand\ADODotNetDMLcommand\bin\Debug\ADODotNetDMLcommand.exe.config
+D:\DotNETBatch2021\Assignments\ADODotNetDMLCommands\ADODotNetDMLcommand\ADODotNetDMLcommand\bin\Debug\ADODotNetDMLcommand.exe
+D:\DotNETBatch2021\Assignments\ADODotNetDMLCommands\ADODotNetDMLcommand\ADODotNetDMLcommand\bin\Debug\ADODotNetDMLcommand.pdb
+D:\DotNETBatch2021\Assignments\ADODotNetDMLCommands\ADODotNetDMLcommand\ADODotNetDMLcommand\obj\Debug\ADODotNetDMLcommand.exe
+D:\DotNETBatch2021\Assignments\ADODotNetDMLCommands\ADODotNetDMLcommand\ADODotNetDMLcommand\obj\Debug\ADODotNetDMLcommand.pdb
